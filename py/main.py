@@ -23,7 +23,7 @@ def db_load(path):
         db.append(toks)
     return db
 
-def db_find_common(db, s, col):
+def db_find_pattern(db, s, col):
     e = re.compile(s, re.I)
     l = []
     n = 0
@@ -34,10 +34,10 @@ def db_find_common(db, s, col):
     return l
 
 def db_find_ref(db, s):
-    return db_find_common(db, s, 0)
+    return db_find_pattern(db, s, 0)
 
 def db_find_comments(db, s):
-    return db_find_common(db, s, 2)
+    return db_find_pattern(db, s, 2)
 
 def db_print(db):
     for i in db:

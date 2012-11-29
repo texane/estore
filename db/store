@@ -1,4 +1,9 @@
-# designation qtity comments
+# ref qtity comments
 LME49710NA/NOPB 3 High Performance, High Fidelity Audio Operational Amplifier
 LME49740NA/NOPB 3 Quad High Performance, High Fidelity Audio Operational Amplifier
 LM4562NA/NOPB 3 Dual High Performance, High Fidelity Audio Operational Amplifier
+r_100 1
+r_120 1
+cpol_100_u 1
+c_10_n 1
+l_331_u 1
