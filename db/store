@@ -1,9 +1,51 @@
 # ref qtity comments
+
+# aop
 LME49710NA/NOPB 3 High Performance, High Fidelity Audio Operational Amplifier
 LME49740NA/NOPB 3 Quad High Performance, High Fidelity Audio Operational Amplifier
 LM4562NA/NOPB 3 Dual High Performance, High Fidelity Audio Operational Amplifier
+
+# resistors
+r_27 1
+r_47 1
+r_50 1
+r_70 1
 r_100 1
 r_120 1
+r_300 1
+r_330 1
+r_390 1
+r_470 1
+r_560 1
+r_690 1
+r_1000 1
+r_1200 1
+r_1500 1
+r_1800 1
+r_2400 1
+r_3300 1
+r_3900 1
+r_4700 1
+r_6800 1
+r_10000 1
+r_12000 1
+r_15000 1
+r_22000 1
+r_47000 1
+r_50000 1
+r_68000 1
+r_100000 1
+r_470000 1
+r_560000 1
+r_620000 1
+r_820000 1
+r_1000000 1
+
+# cpols
 cpol_100_u 1
+
+# capas
 c_10_n 1
+
+# inductors
 l_331_u 1
