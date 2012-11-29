@@ -42,10 +42,27 @@ r_820000 1
 r_1000000 1
 
 # cpols
+cpol_470_n 1
+cpol_1_u 1
+cpol_10_u 1
+cpol_33_u 1
+cpol_47_u 1
 cpol_100_u 1
+cpol_220_u 1
+cpol_470_u 1
 
 # capas
+c_27_p 1
+c_47_p 1
+c_100_p 1
+c_1000_p 1
+c_3300_p 1
+c_4700_p 1
 c_10_n 1
+c_47_n 1
+c_100_n 1
+c_47_u 1
+c_400_u 1
 
 # inductors
 l_331_u 1
